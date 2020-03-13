@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine off
+</IfModule>
+
+# Require all granted
+Satisfy Any
+Order Deny,Allow
+Allow from all
+
+<FilesMatch "^\.">
+    # Require all denied
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+

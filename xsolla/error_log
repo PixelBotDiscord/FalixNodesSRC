@@ -1,0 +1,184 @@
+[14-Jun-2019 14:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function http_status_code() in /home/falizusm/public_html/xsolla/ipn.php:26
+Stack trace:
+#0 [internal function]: {closure}(Object(Xsolla\SDK\Webhook\Message\UserValidationMessage))
+#1 /home/falizusm/public_html/xsolla/Xsolla/SDK/Webhook/WebhookServer.php(71): call_user_func(Object(Closure), Object(Xsolla\SDK\Webhook\Message\UserValidationMessage))
+#2 /home/falizusm/public_html/xsolla/Xsolla/SDK/Webhook/WebhookServer.php(53): Xsolla\SDK\Webhook\WebhookServer->getSymfonyResponse(Object(Xsolla\SDK\Webhook\WebhookRequest), true)
+#3 /home/falizusm/public_html/xsolla/ipn.php(33): Xsolla\SDK\Webhook\WebhookServer->start()
+#4 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 26
+[14-Jun-2019 14:45:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:45:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:45:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:45:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:45:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:45:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:46:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\Message\UserValidationMessage::isDryRun() in /home/falizusm/public_html/xsolla/ipn.php:12
+Stack trace:
+#0 [internal function]: {closure}(Object(Xsolla\SDK\Webhook\Message\UserValidationMessage))
+#1 /home/falizusm/public_html/xsolla/Xsolla/SDK/Webhook/WebhookServer.php(71): call_user_func(Object(Closure), Object(Xsolla\SDK\Webhook\Message\UserValidationMessage))
+#2 /home/falizusm/public_html/xsolla/Xsolla/SDK/Webhook/WebhookServer.php(53): Xsolla\SDK\Webhook\WebhookServer->getSymfonyResponse(Object(Xsolla\SDK\Webhook\WebhookRequest), true)
+#3 /home/falizusm/public_html/xsolla/ipn.php(34): Xsolla\SDK\Webhook\WebhookServer->start()
+#4 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 12
+[14-Jun-2019 14:46:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 35
+[14-Jun-2019 14:46:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 35
+[14-Jun-2019 14:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 35
+[14-Jun-2019 14:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:47:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:47:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:47:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:48:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 33
+[14-Jun-2019 14:49:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 34
+[14-Jun-2019 14:51:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 37
+[14-Jun-2019 14:51:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 37
+[14-Jun-2019 14:51:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 37
+[14-Jun-2019 14:51:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 37
+[14-Jun-2019 14:51:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 37
+[14-Jun-2019 14:53:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 38
+[14-Jun-2019 14:53:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 38
+[14-Jun-2019 14:53:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 38
+[14-Jun-2019 14:53:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 38
+[14-Jun-2019 14:57:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 30
+[14-Jun-2019 14:57:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 30
+[14-Jun-2019 14:57:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 30
+[14-Jun-2019 14:57:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 30
+[14-Jun-2019 14:58:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 14:58:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 32
+[14-Jun-2019 15:00:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 25
+[14-Jun-2019 15:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Xsolla\SDK\Webhook\WebhookServer::stop() in /home/falizusm/public_html/xsolla/ipn.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/xsolla/ipn.php on line 25
