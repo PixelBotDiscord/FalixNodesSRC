@@ -23,4 +23,9 @@
   
 # Is this original?
   its not, it has been modified with small details such as name.
-  
+ 
+# Falix Domains?
+  The falix domain has been used to scam!
+  https://falixnodes.host is a iplogger, used to grab proxies and stuff (Proxies, DDoS people they dont like and more.)
+
+#They are just scums
