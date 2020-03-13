@@ -1,0 +1,4 @@
+[22-Jun-2019 08:34:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function phpinclude() in /home/falizusm/public_html/cron/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/falizusm/public_html/cron/index.php on line 1
